@@ -30,4 +30,7 @@ pip install requests feedparser pandas
 2. Run the script using Python:
 ```bash
 python automateRL.py
+```
+## Sample
+<img width="1708" height="458" alt="image" src="https://github.com/user-attachments/assets/724ef4a2-f7ef-49f2-9691-a951f90c8318" />
 
